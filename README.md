@@ -285,33 +285,6 @@ The analysis produced several important findings:
 * Geographic analysis shows restaurant clusters in densely populated urban areas.
 * Price range analysis indicates that mid-range restaurants dominate the dataset.
 
----
-
-# 📁 Project Structure
-
-```
-Cognifyz_Data_Analysis_Internship/
-│
-├── Dataset.csv
-│
-├── notebooks/
-│   ├── Level_1_Task_1.ipynb
-│   ├── Level_1_Task_2.ipynb
-│   ├── Level_1_Task_3.ipynb
-│   ├── Level_1_Task_4.ipynb
-│   ├── Level_2_Task_1.ipynb
-│   ├── Level_2_Task_2.ipynb
-│   ├── Level_2_Task_3.ipynb
-│   └── Level_2_Task_4.ipynb
-│
-├── outputs/
-│   ├── Restaurant_Map.html
-│
-└── README.md
-```
-
----
-
 # 🎓 Skills Demonstrated
 
 This project demonstrates practical knowledge of:

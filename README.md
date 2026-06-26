@@ -317,7 +317,7 @@ Possible future enhancements include:
 
 # 👨‍💻 Author
 
-## Suraj Kumar
+## Suraj 
 
 **Aspiring Data Analyst**
 
